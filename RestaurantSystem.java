@@ -1,14 +1,4 @@
 /**
- *
- * @author (6406835)
- * 
- * Title:                                     Final Challenge - Restaurant Reservation System
- *                                                           
- *                                                          
- * Semester:                                  COP3337 - Summer 2023
- * 
- * Lecturer's name:                           Cristy Charters & Sean Lyon
- * 
  * Description of Program's Functionality:    Display a menu that will offer the user   
  *                                            options that will allow them to create and 
  *                                            manipulate reservations/walk-ins for a restaurant. 
